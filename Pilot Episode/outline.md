@@ -1,5 +1,7 @@
 # Pilot episode
 
+Length ~ 30 mins
+
 1. What is civic tech?
   * _this will get covered in more detail in future episodes_
     * highlights.definitions
