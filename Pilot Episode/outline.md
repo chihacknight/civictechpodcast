@@ -14,6 +14,7 @@ Length ~ 30 mins
     * Interview with Derek, Christopher, Juan
     * highlights.intros
     * Interview with a 'non-techie' (TBD)
+    * sub-interview with Derek 
 * Why make a podcast?
   * What is worth talking about?
   * Can the show itself be an example of civic technology?
