@@ -53,11 +53,14 @@ So Lets quickly go back about four years ago, when the civic tech in Chicago was
 
 Juan BG, Chris spin-off
 
-Ok, so, thats how Chi Hack Night started, but what is Chi Hack Night today? On Apr 12, 2016, Chi Hack Night celebrated their 200th event. 
 
-Chi Hack Night is a free, weekly event in Chicago to build, share and learn about tools to create, support, and serve the public good.
 
-The group started in 2012, and has grown from a handful of people to a typical attendence of about 120 every Tuesday at 6pm. We meet in the Braintree office on the 8th floor of the Merchandise Mart in downtown Chicago. The event is free, and the invitation is open to anyone, especially folks who aren’t programmers. 
+Chi Hack Night is a free, weekly event in Chicago to build, share and learn about tools to create, support, and serve the public good. The group started in 2012
+
+Ok, so, thats how Chi Hack Night started, but what is Chi Hack Night today? has grown from a handful of people to a typical attendence of about 120 every Tuesday at 6pm.  
+On Apr 12, 2016, Chi Hack Night celebrated their 200th event. 
+
+We meet in the Braintree office on the 8th floor of the Merchandise Mart in downtown Chicago. The event is free, and the invitation is open to anyone, especially folks who aren’t programmers. 
 
 Collectivley, it is a group of thousands of designers, academic researchers, data journalists, activists, policy wonks, web developers and curious citizens who want to make their city more just, equitable, transparent and delightful to live in through data, design and technology.
 
