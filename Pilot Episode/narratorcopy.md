@@ -55,16 +55,17 @@ Juan BG, Chris spin-off
 
 
 
-Chi Hack Night is a free, weekly event in Chicago to build, share and learn about tools to create, support, and serve the public good. The group started in 2012
+Chi Hack Night is a free, weekly event in Chicago to build, share and learn about tools to create, support, and serve the public good. 
 
-Ok, so, thats how Chi Hack Night started, but what is Chi Hack Night today? has grown from a handful of people to a typical attendence of about 120 every Tuesday at 6pm.  
-On Apr 12, 2016, Chi Hack Night celebrated their 200th event. 
+Ok, so, thats how Chi Hack Night started, back in 2012
 
-We meet in the Braintree office on the 8th floor of the Merchandise Mart in downtown Chicago. The event is free, and the invitation is open to anyone, especially folks who aren’t programmers. 
-
+today its, has grown from a handful of people to a typical attendence of about 120, meeting every Tuesday at 6pm at Merchandise Mart in downtown Chicago. The event is free, and the invitation is open to anyone, especially folks who aren’t programmers. 
+ 
 Collectivley, it is a group of thousands of designers, academic researchers, data journalists, activists, policy wonks, web developers and curious citizens who want to make their city more just, equitable, transparent and delightful to live in through data, design and technology.
 
 Food is provided, there is open floor for introductions and announcements, presentations, as well as educational and working groups. 
+
+On Apr 12, 2016, Chi Hack Night celebrated their 200th event. 
 
 reel
 
@@ -78,6 +79,6 @@ Policy people influenced
 
 But the civic tech movment dosen't just affect people who work with government, it also offers an important social counter-weight. 
 
-Thanks for listening to this piliot episode of Dots on a Map. I hope you enjoyed it. This episode was produced, recorded, edited, and mixed by Eric Sherman. Music by Eric Sherman. 
+Thanks for listening to this piliot episode of Dots on a Map. This episode was produced, recorded, edited, and mixed by Eric Sherman. Music by Eric Sherman. 
 
 Special thanks to Chi Hack Night and Scrappers Film Group
