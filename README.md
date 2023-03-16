@@ -2,6 +2,8 @@
 
 I (Eric Sherman), have decided to create a well produced and interesting podcast that tells stories about civic technology, as a movement and as a description for how people use technology to engage with other people.
 
+Check out the [Pilot Episode: #1 Pissed-Off Optimists](https://soundcloud.com/user-987474427/1-pissed-off-optimists)
+
 ## How can I help?
 
 Areas of strength that I would be able to contribute to: planning/producing, recording and editing the audio for the podcast.
